@@ -1,0 +1,1 @@
+This git repo contains a web scraper for scraping recipes from Hello Fresh and a parser that will convert the recipes' html files into a JSON file.
